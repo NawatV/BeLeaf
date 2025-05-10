@@ -1,3 +1,5 @@
-# SuicidePreventionApp
-This is a prototype of android application created by Pitarn Harnpanichpun and Nawat Vatanawood during 2 months summer internship at Telecom Bretagne, Plouzane, France.
+# BeLeaf (Former SuicidePreventionApp)
 
+- A full-stack Android app (func. prototype) for assessing mental health & preventing suicide, dev. in collab. with Pitarn Harnpanichpun, @ IMT Atlantique (Former Télécom Bretagne).
+- See: LICENSE_BeLeaf.txt
+- See: folder: PREREQUISITES

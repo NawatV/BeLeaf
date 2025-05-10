@@ -1,3 +1,0 @@
---- Some URLs in code is not available ---
-- You can use your own URL.
-- Test the application with the real Android device is better than in the emulator.
