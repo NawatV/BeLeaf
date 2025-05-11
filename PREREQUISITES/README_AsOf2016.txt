@@ -6,6 +6,7 @@ Tips
      [To import, select a database in which you would like to import the data in -> "File" -> "Load SQL file" -> Choose the sql file -> Click the run button above -> Done.
 
 Conditions
+- Install the prerequisite libraries.
 - Some URLs in the source code are not available, it is necessary to use your own URLs instead.
 - Please use your own server and database server. Currently, the related URLs in the source code are no longer valid. 
 - Better test the app on a real Android device than an emulator.
