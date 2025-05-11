@@ -1,4 +1,4 @@
-*** You should read and understand all the documents in the folder: PREREQUISITES.
+*** You should read and understand all the documents in the folder named PREREQUISITES.
 
 Tips
 - Push all the files in the folder: "api" to your own server without needing to set up Slim (already done).
